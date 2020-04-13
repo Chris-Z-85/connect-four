@@ -8,4 +8,4 @@ Between January and March 2020, I attended <a href="http://www.spiced-academy.co
  * HTML5
  * CSS3
 
-![Project Image](https://github.com/connectfour.gif?raw=true)
+![Project Image](https://github.com/Chris-Z-85/connect-four/blob/master/Connect_Four/connect_four.gif?raw=true)
