@@ -2,7 +2,7 @@
 
 The vertical checkers game.
 
-wwww: https://chris-z-85.github.io/connect-four.github.io/
+www: https://chris-z-85.github.io/connect-four.github.io/
 
 ## Built with
 
