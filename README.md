@@ -1,6 +1,7 @@
 # Connect Four
 
 The vertical checkers game.
+Avaible heere: https://chris-z-85.github.io/connect-four.github.io/
 
 ## Built with
 
