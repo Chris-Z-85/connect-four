@@ -17,6 +17,12 @@ In this game players take turns dropping their pieces into one of seven columns 
 This project was created during the Full Stack Web Development course at <a href="http://www.spiced-academy.com/">SPICED Academy</a>, which I 
 attended between January and March 2020 in Berlin, Germany. 
 
+## Features
+
+* When a player wins, a message appears to announce the victory.
+
+* After a player wins game resets.
+
 ## Preview
 
 ![Project Image](https://github.com/Chris-Z-85/connect-four.github.io/blob/master/connect_four.gif?raw=true)
