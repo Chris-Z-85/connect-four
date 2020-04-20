@@ -19,8 +19,8 @@ attended between January and March 2020 in Berlin, Germany.
 
 ## Features
 
+* The current player is displayed to indicate their turn.
 * When a player wins, a message appears to announce the victory.
-
 * After a player wins game resets.
 
 ## Preview
